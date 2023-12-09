@@ -6,3 +6,4 @@ instance/*
 __pypache__/
 *.py[cod]
 *$py.class
+.idea/*
