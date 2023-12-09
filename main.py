@@ -21,4 +21,9 @@ def index():
     return {'detail': 'Hello World!'}
 
 
+some Docker commands:
+
+1. Build a Docker image: "docker build -t docker-image-name:1.0 ."
+2. List Docker images: "docker images"
+3. Run a new Docker container: "docker run -it -p 5000:5000 docker-image-name:1.0"
 """
